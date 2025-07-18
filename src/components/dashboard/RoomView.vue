@@ -7,22 +7,22 @@
       <div class="stat-card">
         <div class="stat-number">24</div>
         <div class="stat-label">Máy tính hoạt động</div>
-        <div class="stat-icon">🖥️</div>
+
       </div>
       <div class="stat-card">
         <div class="stat-number">2</div>
         <div class="stat-label">Máy bảo trì</div>
-        <div class="stat-icon">🔧</div>
+
       </div>
       <div class="stat-card">
         <div class="stat-number">98%</div>
         <div class="stat-label">Tỷ lệ hoạt động</div>
-        <div class="stat-icon">📊</div>
+
       </div>
       <div class="stat-card">
         <div class="stat-number">15</div>
         <div class="stat-label">Người dùng online</div>
-        <div class="stat-icon">👥</div>
+
       </div>
     </div>
 
@@ -30,7 +30,7 @@
     <div class="content-section">
       <div class="section-header">
         <h2>Chi tiết phòng máy</h2>
-        <button class="refresh-btn">🔄 Làm mới</button>
+        <button class="refresh-btn">Làm mới</button>
       </div>
 
       <!-- Room Layout -->

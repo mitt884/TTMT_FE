@@ -7,7 +7,7 @@
       :class="{ active: activeMenu === 'roomView' }"
       @click="$emit('menu-click', 'roomView')"
     >
-      <span class="menu-icon">📊</span>
+
       Xem phòng máy
     </button>
 
@@ -16,7 +16,7 @@
       :class="{ active: activeMenu === 'management' }"
       @click="$emit('menu-click', 'management')"
     >
-      <span class="menu-icon">⚙️</span>
+
       Quản lý thiết bị
     </button>
 
@@ -25,7 +25,7 @@
       :class="{ active: activeMenu === 'reports' }"
       @click="$emit('menu-click', 'reports')"
     >
-      <span class="menu-icon">📈</span>
+
       Báo cáo
     </button>
 
@@ -34,7 +34,7 @@
       :class="{ active: activeMenu === 'settings' }"
       @click="$emit('menu-click', 'settings')"
     >
-      <span class="menu-icon">🔧</span>
+
       Cài đặt
     </button>
   </div>
